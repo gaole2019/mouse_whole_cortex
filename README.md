@@ -4,7 +4,7 @@
 
 Code for the analysis of the single-neuron projectome of mouse whole cortex and results.
 
-## Subdivisions of target regions
+## Subdivisions of target regions based on the cortical inputs
 
 -   GPe (Globus pallidus, external segment)
 
