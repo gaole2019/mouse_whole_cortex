@@ -16,6 +16,10 @@ Code for the analysis of the single-neuron projectome of mouse whole cortex and 
 
     -   Our study: task_subdivide_GPi/cluster_GPi_K5.nrrd
 
+- RT (Reticular nucleus of the thalamus)
+
+    - Our study: task_subdivide_RT/K7/label_cluster_real_K7.nrrd
+
 -   SNr (Substantia nigra, reticular part)
 
     -   Our study: task_subdivide_SNr/K6.nrrd
