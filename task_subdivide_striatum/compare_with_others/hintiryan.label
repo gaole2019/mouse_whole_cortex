@@ -1,0 +1,45 @@
+################################################
+# ITK-SnAP Label Description File
+# File format: 
+# IDX   -R-  -G-  -B-  -A--  VIS MSH  LABEL
+# Fields: 
+#    IDX:   Zero-based index 
+#    -R-:   Red color component (0..255)
+#    -G-:   Green color component (0..255)
+#    -B-:   Blue color component (0..255)
+#    -A-:   Label transparency (0.00 .. 1.00)
+#    VIS:   Label visibility (0 or 1)
+#    IDX:   Label mesh visibility (0 or 1)
+#  LABEL:   Label description 
+################################################
+    0     0    0    0        0  0  0    "Clear Label"
+    1   248  160   29        1  1  1    "CPr.imd"
+    2    66  196  205        1  1  1    "CPr.l.ls"
+    3     0  156    4        1  1  1    "CPr.l.vm"
+    4   172   75  154        1  1  1    "CPr.imv"
+    5   235  231   36        1  1  1    "CPr.m"
+    6    33  123  236        1  1  1    "CPi.dm.dm"
+    7   205   99  254        1  1  1    "CPi.dm.d"
+    8   208  208  208        1  1  1    "CPi.dm.dl"
+    9   221  135  132        1  1  1    "CPi.dl.d(tr)"
+   10   130  201  157        1  1  1    "CPi.dl.imd(ll)"
+   11   111  206  238        1  1  1    "CPi.vl.imv(ul)"
+   12   239  244  157        1  1  1    "CPi.vl.v(m/i)"
+   13   243  196  134        1  1  1    "CPi.vl.vt(m/o)"
+   14   154  156  229        1  1  1    "CPi.vm.v"
+   15   250   10  248        1  1  1    "CPi.vm.vm"
+   16   195  224  181        1  1  1    "CPi.dm.im"
+   17    10  251   33        1  1  1    "CPi.dm.cd"
+   18   242  153  195        1  1  1    "CPi.vm.cvm"
+   19    36  250  235        1  1  1    "CPi.vl.cvl"
+   20   100  113  202        1  1  1    "CPc.d.dm"
+   21   228  232  138        1  1  1    "CPc.d.dl"
+   22   107  204  205        1  1  1    "CPc.i.dl"
+   23   209  173  204        1  1  1    "CPc.i.vl"
+   24   196  130  183        1  1  1    "CPc.v.dl"
+   25   179  184  252        1  1  1    "CPc.v.vm"
+   26   169   74  155        1  1  1    "CPc.i.vm"
+   27    97  162  137        1  1  1    "CPc.d.vm"
+   28   127   70  101        1  1  1    "CPext.d"
+   29   104  105  166        1  1  1    "CPext.rv"
+   30   120  147  119        1  1  1    "CPext.cv"

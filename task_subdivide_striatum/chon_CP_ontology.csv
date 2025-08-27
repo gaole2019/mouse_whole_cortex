@@ -1,0 +1,39 @@
+﻿id,name,acronym,RGB_1,RGB_2,RGB_3,graph_order,structure_id_path
+672,Caudate Putamen,CP,160,216,248,48200,485
+2376,Caudoputamen- rostral extreme,CPre,160,216,248,48210,672
+2491,Caudoputamen- rostral,CPr,160,216,248,48220,672
+2294,"Caudoputamen- rostral, medial","CPr, m",160,216,248,48221,2491
+2295,"Caudoputamen- rostral, intermediate, dorsal","CPr, imd",160,216,248,48222,2491
+2296,"Caudoputamen- rostral, intermediate, ventral","CPr, imv",160,216,248,48223,2491
+2497,"Caudoputamen- rostral, lateral","CPr, l",160,216,248,48224,2491
+2395,"Caudoputamen- rostral, lateral, lateral strip","CPr, l, ls",160,216,248,48225,2497
+2297,"Caudoputamen- rostral, lateral, ventromedial","CPr, l, vm",160,216,248,48226,2497
+2492,Caudoputamen- intermediate,CPi,160,216,248,48230,672
+2498,"Caudoputamen- intermediate, dorsomedial","CPi, dm",160,216,248,48231,2492
+2299,"Caudoputamen- intermediate, dorsomedial, dorsolateral","CPi, dm, dl",160,216,248,48232,2498
+2298,"Caudoputamen- intermediate, dorsomedial, intermedial","CPi, dm, im",160,216,248,48233,2498
+2374,"Caudoputamen- intermediate, dorsomedial, central dorsal","CPi, dm, cd",160,216,248,48234,2498
+2380,"Caudoputamen- intermediate, dorsomedial, dorsal tip ","CPi, dm, dt",160,216,248,48235,2498
+2500,"Caudoputamen- intermediate, ventromedial","CPi, vm",160,216,248,48236,2492
+2302,"Caudoputamen- intermediate, ventromedial, ventromedial","CPi, vm, vm",160,216,248,48237,2500
+2480,"Caudoputamen- intermediate, ventromedial, ventral","CPi, vm, v",160,216,248,48238,2500
+2483,"Caudoputamen- intermediate, ventromedial, central ventromedial","CPi, vm, cvm",160,216,248,48239,2500
+2499,"Caudoputamen- intermediate, dorsolateral, ","CPi, dl",160,216,248,48240,2492
+2300,"Caudoputamen- intermediate, dorsolateral, dorsal","CPi, dl, d",160,216,248,48241,2499
+2301,"Caudoputamen- intermediate, dorsolateral, intermedial dorsal","CPi, dl, imd",160,216,248,48242,2499
+2501,"Caudoputamen- intermediate, ventrolateral","CPi, vl",160,216,248,48243,2492
+2479,"Caudoputamen- intermediate, ventrolateral, intermedial ventral","CPi, vl, imv",160,216,248,48244,2501
+2482,"Caudoputamen- intermediate, ventrolateral, ventral","CPi, vl, v",160,216,248,48245,2501
+2481,"Caudoputamen- intermediate, ventrolateral, ventral tip","CPi, vl, vt",160,216,248,48246,2501
+2370,"Caudoputamen- intermediate, ventrolateral, central ventrolateral","CPi, vl, cvl",160,216,248,48247,2501
+2496,Caudoputamen- caudal,CPc,160,216,248,48250,672
+2493,"Caudoputamen- caudal, dorsal","CPc, d",160,216,248,48251,2496
+2484,"Caudoputamen- caudal, dorsal, dorsomedial","CPc, d, dm",160,216,248,48252,2493
+2485,"Caudoputamen- caudal, dorsal, dorsolateral","CPc, d, dl",160,216,248,48253,2493
+2486,"Caudoputamen- caudal, dorsal, ventromedial","CPc, d, vm",160,216,248,48254,2493
+2494,"Caudoputamen- caudal, intermediate","CPc, i",160,216,248,48255,2496
+2487,"Caudoputamen- caudal, intermediate, dorsal","CPc, i, d",160,216,248,48256,2494
+2489,"Caudoputamen- caudal, intermediate, ventromedial","CPc, i, vm",160,216,248,48257,2494
+2488,"Caudoputamen- caudal, intermediate, ventrolateral","CPc, i, vl",160,216,248,48258,2494
+2490,"Caudoputamen- caudal, ventral","CPc, v",160,216,248,48259,2496
+2495,Caudoputamen- caudal extreme,CPce,160,216,248,48260,672
